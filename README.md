@@ -1,6 +1,6 @@
 # 👋 Hi, I'm José Carita
 
-🎓 **Electronics Engineering student** at [UTEC, Peru](https://www.utec.edu.pe), with a background in **Electronics and Industrial Automation** and several years of hands-on experience in **medical equipment maintenance and calibration**.  
+🎓 **Electronics Engineering student** at [UTEC, Peru](https://www.utec.edu.pe), with a background in **Electronics and Industrial Automation** and some years of hands-on experience in **medical equipment maintenance and calibration**.  
 
 💡 I’m passionate about bridging **embedded systems**, **signal processing**, and **artificial intelligence** to create efficient, intelligent, and human-centered technology.
 
@@ -39,17 +39,12 @@ My GitHub reflects my journey from low-level embedded systems to high-level AI a
 - 🔭 Currently exploring **embedded AI** and **real-time signal analysis** on resource-constrained systems.  
 - 🧩 Interested in **Brain–Computer Interfaces (BCI)** and **biomedical data analysis**.  
 - 🎯 Long-term goal: pursue a **research-oriented master’s** in **computer engineering / biomedical signal processing**.  
-- 🧠 I enjoy writing efficient, well-structured C++ code and experimenting with neural networks on edge devices.  
-- ✈️ Selected for the **Disney Academic Exchange Program 2026** at **Montclair State University (USA)**.  
 
 ---
 
 ### 📫 Contact
 
-- ✉️ Email: **[add your email here]**  
-- 💼 LinkedIn: [linkedin.com/in/josecarita](https://linkedin.com/in/josecarita) *(add your actual link if different)*  
+- 💼 LinkedIn: [linkedin.com/in/jose-carita](https://linkedin.com/in/jose-carita)  
 - 🌐 GitHub: [github.com/josecarita](https://github.com/josecarita)
 
----
-
-⭐ _"Where hardware meets intelligence — building systems that think, sense, and help."_  
+  
