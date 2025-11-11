@@ -1,26 +1,31 @@
 # 👋 Hi, I'm José Carita
 
-🎓 **Electronics Engineering student** at [UTEC, Peru](https://www.utec.edu.pe), with a technical background in **Electronics and Industrial Automation** and hands-on experience in **medical equipment maintenance**.  
+🎓 **Electronics Engineering student** at [UTEC, Peru](https://www.utec.edu.pe), with a background in **Electronics and Industrial Automation** and several years of hands-on experience in **medical equipment maintenance and calibration**.  
 
-💡 Passionate about **signal and image processing**, **biomedical engineering**, and **deep learning** applications — especially projects that connect computation with human health and perception.  
+💡 I’m passionate about bridging **embedded systems**, **signal processing**, and **artificial intelligence** to create efficient, intelligent, and human-centered technology.
 
-🚀 Currently exploring:
-- Embedded AI (TensorFlow Lite on Raspberry Pi)
-- Biomedical signal analysis
-- Brain–Computer Interfaces (BCI)
-- Computer engineering & system modeling
+---
+
+### 🚀 What I’ve Been Working On
+
+My GitHub reflects my journey from low-level embedded systems to high-level AI applications:
+
+- ⚙️ **C++ Projects** — From algorithmic implementations and class modeling to simulations and object-oriented design.  
+- 🧠 **Machine Learning / TensorFlow Lite** — Running and optimizing models like `ssd_mobilenet_v2_320x320.tflite` on **Raspberry Pi 4 (aarch64)** using C++.  
+- 🩺 **Biomedical & Signal Processing** — Exploring image and signal processing techniques for biomedical applications.  
+- 🔌 **Embedded Programming** — Microcontroller-based development (AVR, sensors like MPU6050, UART, interrupts).  
 
 ---
 
 ### 🧠 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,tensorflow,raspberrypi,linux,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,tensorflow,raspberrypi,linux,git,vscode,cmake" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=josecarita&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
@@ -29,17 +34,22 @@
 
 ---
 
-### 🌱 About me
+### 🌱 About Me
 
-- 🧩 I enjoy learning through hands-on projects that mix hardware and AI.  
-- 🧠 I’m aiming to pursue a **research-focused master’s degree** in the near future.  
-- 🎯 Goal: contribute to **biomedical AI** and **intelligent systems research**.  
-- ✉️ Reach me at: **[your.email@example.com]** or on [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 🔭 Currently exploring **embedded AI** and **real-time signal analysis** on resource-constrained systems.  
+- 🧩 Interested in **Brain–Computer Interfaces (BCI)** and **biomedical data analysis**.  
+- 🎯 Long-term goal: pursue a **research-oriented master’s** in **computer engineering / biomedical signal processing**.  
+- 🧠 I enjoy writing efficient, well-structured C++ code and experimenting with neural networks on edge devices.  
+- ✈️ Selected for the **Disney Academic Exchange Program 2026** at **Montclair State University (USA)**.  
 
 ---
 
-⭐ _“Engineering meets intelligence — where computation empowers humanity.”_
-<!---
-josecarita/josecarita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📫 Contact
+
+- ✉️ Email: **[add your email here]**  
+- 💼 LinkedIn: [linkedin.com/in/josecarita](https://linkedin.com/in/josecarita) *(add your actual link if different)*  
+- 🌐 GitHub: [github.com/josecarita](https://github.com/josecarita)
+
+---
+
+⭐ _"Where hardware meets intelligence — building systems that think, sense, and help."_  
