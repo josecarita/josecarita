@@ -1,50 +1,60 @@
-# 👋 Hi, I'm José Carita
-
-🎓 **Electronics Engineering student** at [UTEC, Peru](https://www.utec.edu.pe), with a background in **Electronics and Industrial Automation** and some years of hands-on experience in **medical equipment maintenance and calibration**.  
-
-💡 I’m passionate about bridging **embedded systems**, **signal processing**, and **artificial intelligence** to create efficient, intelligent, and human-centered technology.
-
----
-
-### 🚀 What I’ve Been Working On
-
-My GitHub reflects my journey from low-level embedded systems to high-level AI applications:
-
-- ⚙️ **C++ Projects** — From algorithmic implementations and class modeling to simulations and object-oriented design.  
-- 🧠 **Machine Learning / TensorFlow Lite** — Running and optimizing models like `ssd_mobilenet_v2_320x320.tflite` on **Raspberry Pi 4 (aarch64)** using C++.  
-- 🩺 **Biomedical & Signal Processing** — Exploring image and signal processing techniques for biomedical applications.  
-- 🔌 **Embedded Programming** — Microcontroller-based development (AVR, sensors like MPU6050, UART, interrupts).  
-
----
-
-### 🧠 Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,tensorflow,raspberrypi,linux,git,vscode,cmake" />
-</p>
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">Hi, I'm José Carita 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josecarita&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecarita&layout=compact&theme=tokyonight" alt="Top Langs" height="150"/>
+  <b>Electronics Engineering student @ UTEC (Lima, Peru)</b><br/>
+  Embedded systems · Signal processing · Edge AI for biomedical applications
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/jose-carita"><img src="https://img.shields.io/badge/LinkedIn-jose--carita-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/Location-Lima%2C%20Peru-555?style=flat&logo=googlemaps&logoColor=white" alt="Lima, Peru"/>
+  <img src="https://img.shields.io/badge/Focus-Embedded%20AI-2ea44f?style=flat" alt="Focus: Embedded AI"/>
 </p>
 
 ---
 
-### 🌱 About Me
+### About me
 
-- 🔭 Currently exploring **embedded AI** and **real-time signal analysis** on resource-constrained systems.  
-- 🧩 Interested in **Brain–Computer Interfaces (BCI)** and **biomedical data analysis**.  
-- 🎯 Long-term goal: pursue a **research-oriented master’s** in **computer engineering / biomedical signal processing**.  
+I build **intelligent systems that run close to the hardware** — from microcontroller firmware and sensors to computer-vision models deployed on a Raspberry Pi.
+
+My background is a bit unusual for a student: before engineering school I trained in **electronics and industrial automation** and worked hands-on in **medical equipment maintenance and calibration**. That's why I care about technology that is efficient, reliable, and useful for people.
+
+- 🔭 **Now:** embedded AI and real-time signal analysis on resource-constrained devices
+- 🧩 **Interested in:** brain–computer interfaces (BCI) and biomedical data analysis
+- 🎯 **Next:** a research-oriented master's in computer engineering / biomedical signal processing
 
 ---
 
-### 📫 Contact
+### Featured projects
 
-- 💼 LinkedIn: [linkedin.com/in/jose-carita](https://linkedin.com/in/jose-carita)  
-- 🌐 GitHub: [github.com/josecarita](https://github.com/josecarita)
+| Project | What it does | Stack |
+|---|---|---|
+| [**Fall detector for elderly patients**](https://github.com/josecarita/fall_detector_using_vision_computer_and_IoT) | Vision-based fall detection for geriatric care, with IoT alerts | Raspberry Pi · MediaPipe · Python |
+| [**Vital-signs IoT monitor**](https://github.com/josecarita/IoT_Monitoring) | Prototype vital-signs monitor with cloud connection and data logging | ESP32 · Node-RED · IBM Cloud |
+| [**Remote-class attention monitor**](https://github.com/josecarita/Pupil_detection) | Estimates whether a student in an online class is paying attention, from eye openness and gaze direction | MediaPipe · Python |
+| [**Face-tracking gimbal**](https://github.com/josecarita/face_tracking_using_2_servos_with_PID_control) | 2-axis servo gimbal that follows a face. The PID tuning plots showed it was not stable, so the next version uses an LQR controller | Raspberry Pi · MediaPipe · Control |
+| [**AC motor condition monitoring**](https://github.com/josecarita/IoT-maintenance-motor) | Monitors the state of an AC motor as the basis for predictive maintenance | ESP32 · Node-RED · IBM Cloud |
+| [**Elevator person detection**](https://github.com/josecarita/Person-detection) | Detects people for a smart-elevator application | MediaPipe · Python |
 
-  
+> 📚 Also: Java & web exercises from the Alura Latam / Oracle ONE program (`literalura`, `foro-hub`, `conversor-de-monedas`).
+
+---
+
+### Tech stack
+
+**Embedded & hardware**<br/>
+<img src="https://skillicons.dev/icons?i=cpp,c,arduino,raspberrypi,linux,cmake" />
+
+**AI, vision & IoT**<br/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,nodered" /><br/>
+<sub>+ MediaPipe · IBM Cloud · ESP32</sub>
+
+**Software & tools**<br/>
+<img src="https://skillicons.dev/icons?i=java,js,html,git,vscode" />
+
+---
+
+### Let's connect
+
+Open to **research collaborations, internships, and projects** in embedded systems, edge AI, or biomedical engineering.<br/>
+📫 Reach me on [LinkedIn](https://linkedin.com/in/jose-carita).
