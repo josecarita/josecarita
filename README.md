@@ -30,11 +30,11 @@ My background is a bit unusual for a student: before engineering school I traine
 | Project | What it does | Stack |
 |---|---|---|
 | [**Fall detector for elderly patients**](https://github.com/josecarita/fall_detector_using_vision_computer_and_IoT) | Vision-based fall detection for geriatric care, with IoT alerts | Raspberry Pi · MediaPipe · Python |
-| [**Vital-signs IoT monitor**](https://github.com/josecarita/IoT_Monitoring) | Prototype vital-signs monitor with cloud connection and data logging | ESP32 · Node-RED · IBM Cloud |
-| [**Remote-class attention monitor**](https://github.com/josecarita/Pupil_detection) | Estimates whether a student in an online class is paying attention, from eye openness and gaze direction | MediaPipe · Python |
-| [**Face-tracking gimbal**](https://github.com/josecarita/face_tracking_using_2_servos_with_PID_control) | 2-axis servo gimbal that follows a face. The PID tuning plots showed it was not stable, so the next version uses an LQR controller | Raspberry Pi · MediaPipe · Control |
-| [**AC motor condition monitoring**](https://github.com/josecarita/IoT-maintenance-motor) | Monitors the state of an AC motor as the basis for predictive maintenance | ESP32 · Node-RED · IBM Cloud |
-| [**Elevator person detection**](https://github.com/josecarita/Person-detection) | Detects people for a smart-elevator application | MediaPipe · Python |
+| [**Vital-signs IoT monitor**](https://github.com/josecarita/IoT_Monitoring) | Prototype vital-signs monitor with cloud connection and data logging | Arduino · MQTT · Node-RED · IBM Cloud |
+| [**Remote-class attention monitor**](https://github.com/josecarita/Pupil_detection) | Estimates whether a student in an online class is paying attention, from eye position and head tilt | MediaPipe · Python |
+| [**Face-tracking gimbal**](https://github.com/josecarita/face_tracking_using_2_servos_with_PID_control) | 2-axis servo gimbal that follows a face. The PID tuning plots showed it was not stable, so the next version uses an LQR controller | Raspberry Pi · OpenCV · MATLAB |
+| [**AC motor condition monitoring**](https://github.com/josecarita/IoT-maintenance-motor) | Monitors the state of an AC motor as the basis for predictive maintenance | Arduino · Raspberry Pi · Node-RED · IBM Cloud |
+| [**Elevator person detection**](https://github.com/josecarita/Person-detection) | Detects people for a smart-elevator application | Raspberry Pi · OpenCV |
 
 > 📚 Also: Java & web exercises from the Alura Latam / Oracle ONE program (`literalura`, `foro-hub`, `conversor-de-monedas`).
 
